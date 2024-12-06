@@ -1,0 +1,40 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url(robot.jpeg);
+	background-repeat: no repeat;
+	background-size: 100%;
+	font-family: Roboto Condensed;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	padding: 5px;
+}
+
+.container {
+	background-color: rgba(0,0,0,0.77);
+}
+
+.put {
+	min-width: 400px;
+}
+
+.footer {
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.footer:hover {
+	background-color: darkgrey;
+}
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
